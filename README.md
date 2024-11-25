@@ -4,7 +4,7 @@
 <a href="http://www.yes24.com/Product/Goods/95343845"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" width="150" align=right></a>
 </p>
 
-[미리보기](https://preview2.hanbit.co.kr/books/jqlw/#p=1) | [알려진 오류(정오표)](https://docs.google.com/document/d/1_qHrFCrfx5zNOdslAa9rY3Vv1KECLCToHWJNhvn2jDA) | [본문 그림과 수식 이미지 모음 파일](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A53%20%EA%B7%B8%EB%A6%BC%EA%B3%BC%20%EC%88%98%EC%8B%9D.zip)
+[미리보기](https://preview2.hanbit.co.kr/books/jqlw/#p=1) | [알려진 오류(정오표)](https://docs.google.com/document/d/1_qHrFCrfx5zNOdslAa9rY3Vv1KECLCToHWJNhvn2jDA) | [본문 그림과 수식 이미지 모음 파일](https://github.com/WegraLee/deep-learning-from-scratch-3/raw/refs/heads/master/%EB%B0%91%EB%B0%94%EB%8B%A53%20%EA%B7%B8%EB%A6%BC%EA%B3%BC%20%EC%88%98%EC%8B%9D.zip)
 
 ## DeZero 빌드 현황
 
